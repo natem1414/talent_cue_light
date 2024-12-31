@@ -13,6 +13,9 @@ import array
 
 test1="test1"
 
+
+#LIGHT;LED4;OFF;TEST1;TEXT2;00CCCC;AAAAFF;112233;556677
+
 # Create a socket object
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
