@@ -1,3 +1,5 @@
+Talent Cue Light README
+
 Setup
 install tcp_rx_dmx_draw.py
 chmod +x tcp_rx_dmx_draw.py
